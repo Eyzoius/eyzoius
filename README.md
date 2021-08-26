@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sherwin M. Orlanes a Microsoft Certified Professional and an IT Student from Alcala, Cagayan PH
+- 👋 Hi, I’m Sherwin M. Orlanes a Microsoft Certified Professional and an IT Student from AMA Computer College Tuguegarao
 - 👀 I’m interested in ML/AI, Data Science and Microsoft Azure Cloud
 - 🌱 I’m currently learning Python for Data Science, ML/AI and Microsoft Azure Cloud
 - 📫 You can reach me here: sherwin@hackthenorth.ph
